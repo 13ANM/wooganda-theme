@@ -87,7 +87,7 @@
 		},
 		{
 			"name": "Colors",
-			"scope": ["constant.other.color"],
+			"scope": ["constant.other.color", "meta.jsx.children"],
 			"settings": {
 				"foreground": "#F6F4F3"
 			}
