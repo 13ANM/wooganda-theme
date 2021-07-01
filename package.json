@@ -1,0 +1,39 @@
+{
+	"name": "wooganda",
+	"displayName": "Dark Wooganda Theme",
+	"description": "Personal Preference Theme",
+	"publisher": "ANM1101",
+	"author": {
+		"name": "Andrei Mocanu"
+	},
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.57.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/13ANM/wooganda-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/13ANM/wooganda-theme/issues"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Wooganda",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-wooganda-color-theme.json"
+			}
+		]
+	},
+	"keywords": [
+		"Dark Theme",
+		"dark",
+		"contrast",
+		"tourquoise",
+		"green"
+	]
+}
